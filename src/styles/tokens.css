@@ -1,0 +1,16 @@
+:root {
+  --bg: #f4f7fb;
+  --surface: #ffffff;
+  --ink: #1c2b3a;
+  --muted: #5b6b7c;
+  --line: #d7e0ea;
+  --brand: #0b3d91;
+  --brand-soft: #e8f0ff;
+  --accent: #0f766e;
+  --warn: #b45309;
+  --danger: #b91c1c;
+  --ok: #15803d;
+  --shadow: 0 8px 24px rgba(28, 43, 58, 0.08);
+  --radius: 12px;
+  --font: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
